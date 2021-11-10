@@ -11,5 +11,5 @@ FreeAIData uses MySQL to handle user accounts, search functions, and file locati
 MySQL does **NOT** come pre-configured
 
 # License
-FreeAIData is open source and file under Creative Commons 0
+FreeAIData is open source and filed under Creative Commons 0
 You are free to use, edit, or modify all assets for creative and commercial purposes with or without crediting us.
