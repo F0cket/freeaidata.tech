@@ -5,4 +5,6 @@ FreeAIData was created as a class project by Group 4.
 
 Notice
 =====
-FreeAIData uses MySQL to handle user accounts, search functions, and file locations. MySQL does **NOT** come pre-configured
+FreeAIData uses MySQL to handle user accounts, search functions, and file locations. 
+
+MySQL does **NOT** come pre-configured
