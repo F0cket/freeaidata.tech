@@ -16,7 +16,7 @@ FreeAIData requires a MySQL database to function.
 - The provided .sql file will create the required database and tables. Edit this to your needs.
 - Don't forget to create a config.php file in the directory above with your database connection credentials.
 - FreeAIData requires python3.
-- FreeAiData comes with absolutley no Warranty.
+- FreeAiData comes with absolutley no warranty.
 
 ## FreeAiData Team
 - F0cket
