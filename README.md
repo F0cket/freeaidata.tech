@@ -1,4 +1,4 @@
-# Development On FreeAIData Has Ceased. 
+# *Development On FreeAIData Has Ceased.* 
 The Domain "freeaidata.tech" is no longer associated with this application.
 
 ## FreeAIData
