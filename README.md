@@ -1,15 +1,31 @@
-# FreeAIData
-FreeAIData is a website that hosts free to use, ethically sourced data to be used to train AI's
+# Development On FreeAIData Has Ceased. 
+The Domain "freeaidata.tech" is no longer associated with this application.
 
-FreeAIData was created as a class project by Group 4.
+## FreeAIData
+FreeAIData is a proof of concept, community based data repository that hosts free ethically sourced data meant to be used to train AI's. It was created as a final project for a class.
 
-The FreeAIData source does not contain any data. 
+## Features
+- Upload Function
+- Browse Function
+- Login Function
+- Register Function
+- Block Chain Concept Logging Via Python
 
-# Notice
-FreeAIData uses MySQL to handle user accounts, search functions, and file locations. 
+## Notice
+FreeAIData requires a MySQL database to function.
+- The provided .sql file will create the required database and tables. Edit this to your needs.
+- Don't forget to create a config.php file in the directory above with your database connection credentials.
+- FreeAIData requires python3.
+- FreeAiData comes with absolutley no Warranty.
 
-MySQL does **NOT** come pre-configured
+## FreeAiData Team
+- F0cket
+- Erza
+- Elliot
+- Jace
+- Jakob
 
-# License
-FreeAIData is open source and filed under Creative Commons 0.
-You are free to use, edit, or modify all assets for creative and commercial purposes with or without crediting us.
+###### License
+> FreeAIData was created with an open source mindeset and will always be available.
+> You are free to use, edit, or modify all assets for creative and commercial purposes with or without crediting this repository.
+> Applications built using this code are the responsibilities of their own individual developer.
