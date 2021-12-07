@@ -2,7 +2,7 @@
 The Domain "freeaidata.tech" is no longer associated with this application.
 
 ## FreeAIData
-FreeAIData is a proof of concept, community based data repository that hosts free ethically sourced data meant to be used to train AI's. It was created as a final project for a class.
+FreeAIData is a proof of concept community based data repository that hosts free ethically sourced data meant to be used to train AI's. It was created as a final project for a class.
 
 ## Features
 - Upload Function
